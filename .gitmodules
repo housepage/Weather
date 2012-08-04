@@ -1,0 +1,6 @@
+[submodule "android"]
+	path = android
+	url = https://github.com/housepage/Weather-Android
+[submodule "web"]
+	path = web
+	url = https://github.com/housepage/Weather-Web
